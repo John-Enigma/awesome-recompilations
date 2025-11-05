@@ -42,6 +42,12 @@ WRITE DESCRIPTION HERE
 
 WRITE DESCRIPTION HERE
 
+#### Duke Nukem: Zero Hour
+
+:unlock: :bell:
+
+[https://github.com/sonicdcer/DNZHRecomp](https://github.com/sonicdcer/DNZHRecomp) __by_ _[sonicdcer](https://github.com/sonicdcer)_ [Released] [Active]
+
 #### GoldenEye 007 
 
 :lock: :bell: 
