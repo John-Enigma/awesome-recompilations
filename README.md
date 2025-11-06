@@ -46,7 +46,7 @@ WRITE DESCRIPTION HERE
 
 :unlock: :bell:
 
-[https://github.com/sonicdcer/DNZHRecomp](https://github.com/sonicdcer/DNZHRecomp) __by_ _[sonicdcer](https://github.com/sonicdcer)_ [Released] [Active]
+[https://github.com/sonicdcer/DNZHRecomp](https://github.com/sonicdcer/DNZHRecomp) _by_ _[sonicdcer](https://github.com/sonicdcer)_ [Released] [Active]
 
 #### GoldenEye 007 
 
